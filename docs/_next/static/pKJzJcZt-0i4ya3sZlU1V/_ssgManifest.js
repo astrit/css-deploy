@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Ficon\u002F[slug]","\u002Ficon\u002F[slug]\u002Fcss","\u002Ficon\u002F[slug]\u002Ftsx","\u002Ficons\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
